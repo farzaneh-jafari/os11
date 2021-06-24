@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\title{os11}
+\author{farjafari98}
+\date{June 2021}
+\begin{document}
+\maketitle
+\section{Introduction}
+I'm farzane jafari student at sadjad university in mashhad in field of computer engineering and interested in network domain,electronic
+\section{table}
+    \begin{table}[h]
+    \begin{tabular}{|c|c|c|}
+         a&b&c\\
+         d&e&f\\
+         \hline
+    \end{tabular}
+\end{table}
+\section{math}
+power equation
+\begin{equation}
+    p=w/t
+\end{equation}
+\section{code}
+\begin{verbatim}
+//c++
+#include <iostream>
+using namespace std;
+int main()
+{
+cout<<"hello world";
+}
+\end{verbatim}
+\end{document}
